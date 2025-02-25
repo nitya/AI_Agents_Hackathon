@@ -1,10 +1,10 @@
-# AI Agents Hackathon: Let's build agents together
+# AI Agents Hackathon: Let's build agentic applications together
 
-<img width="1599" alt="AI Agents Hackathon Banner" src="media\RAG AI Hack Banner.png">
+<img width="1599" alt="AI Agents Hackathon Banner" src="media\Placeholder Banner.png">
 
 
 🛠️ Build, innovate, and #Hacktogether! 🛠️
-It's time to start building AI applications using the power of RAG (Retrieval Augmented Generation). 🤖 + 📚 = 🔥
+It's time to start building agentic applications. 🤖 + 📚 = 🔥
 
 Add hack description here.
 
@@ -18,7 +18,7 @@ Introduce yourself and look for teammates here [GitHub Discussions](https://aka.
 
 ## Official Rules
 
-Read the [official rules](https://aka.ms/agenthack) 📃
+Read the [official rules](OFFICIAL_RULES.md) 📃
 
 ## Stream Schedule
 

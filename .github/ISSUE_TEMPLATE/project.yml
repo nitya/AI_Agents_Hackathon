@@ -70,7 +70,7 @@ body:
   - type: checkboxes
     id: email
     attributes:
-      label: Email
+      label: Email Contact
       description: Confirm that you have filled out the following form, we will not be able to contact you about prizes if you don't!
       options:
         - label: Fill out this form with email addresses for each team member. (add link here!)
