@@ -69,12 +69,12 @@ For additional help with your hacks, you can drop by Office Hours in our AI Disc
 | --------------------- | ---------------------------------------- |
 | 9/4, 07:00 PM UTC / 12:00 PM PT | [Add office hours here](https://aka.ms/agenthack) |
 
-## RAG Code Samples
+## Code Samples
 
 
 | Repository            | Language/Framework     | Costs |
 | --------------------- | ---------------------- | ------ |
-| [Add code samples here](https://aka.ms/agenthack) | Add language/technology used here | Add costs here |
+| [Add code samples here](https://aka.ms/agenthack) | Add language/framework used here | Add costs here |
 
 To find more samples, check out the following resources:
 
