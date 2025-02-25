@@ -84,6 +84,7 @@ To find more samples, check out the following resources:
 
 * [AI learning and community hub](https://learn.microsoft.com/ai/)
 * [AI Agents for Beginners](https://aka.ms/ai-agents-beginners)
+
 [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/AzureAI/Discord)
 
 ## Project Submission
