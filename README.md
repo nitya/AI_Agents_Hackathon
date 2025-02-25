@@ -1,10 +1,10 @@
-# AI Agents Hackathon: Let's build agentic applications together
+# AI Agents Hackathon: Let's build Agents together
 
 <img width="1599" alt="AI Agents Hackathon Banner" src="media\Placeholder Banner.png">
 
 
 🛠️ Build, innovate, and #Hacktogether! 🛠️
-It's time to start building agentic applications. 🤖 + 📚 = 🔥
+It's time to start building Agents. 🤖 + 📚 = 🔥
 
 Add hack description here.
 
