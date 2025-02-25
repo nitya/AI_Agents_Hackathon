@@ -1,33 +1,118 @@
-# Project
+# AI Agents Hackathon: Let's build agents together
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+<img width="1599" alt="AI Agents Hackathon Banner" src="media\RAG AI Hack Banner.png">
 
-As the maintainer of this project, please make a few updates:
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+🛠️ Build, innovate, and #Hacktogether! 🛠️
+It's time to start building AI applications using the power of RAG (Retrieval Augmented Generation). 🤖 + 📚 = 🔥
 
-## Contributing
+Add hack description here.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+The streams start **April 8th** and end **April 25th**. Hack submissions are due **April 30th**, 11:59 PM PST. Join us!
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## Register
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+Register for the hackathon using the following link: [Sign Up here](https://aka.ms/agenthack).
 
-## Trademarks
+Introduce yourself and look for teammates here [GitHub Discussions](https://aka.ms/agenthack)!
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+## Official Rules
+
+Read the [official rules](https://aka.ms/agenthack) 📃
+
+## Stream Schedule
+
+### English
+
+#### Week 1: April 8th-11th
+
+| Day/Time              | Topic                    | Track                    | Resources                |
+| --------------------- | ------------------------ | ------------------------ | ------------------------ |
+| 9/3, 04:30 PM UTC / 09:30 AM PT    | [Agents 101](https://aka.ms/agenthack) | All | [Link](https://aka.ms/agenthack) |
+
+#### Week 2: April 14th-18th
+
+| Day/Time              | Topic                    | Track                    | Resources                |
+| --------------------- | ------------------------ | ------------------------ | ------------------------ |
+| 9/3, 04:30 PM UTC / 09:30 AM PT    | [Agents 101](https://aka.ms/agenthack) | All | [Link](https://aka.ms/agenthack) |
+
+#### Week 3: April 21st-25th
+
+| Day/Time              | Topic                    | Track                    | Resources                |
+| --------------------- | ------------------------ | ------------------------ | ------------------------ |
+| 9/3, 04:30 PM UTC / 09:30 AM PT    | [Agents 101](https://aka.ms/agenthack) | All | [Link](https://aka.ms/agenthack) |
+
+### Spanish
+
+| Day/Time              | Topic                    | Track                    | Resources                |
+| --------------------- | ------------------------ | ------------------------ | ------------------------ |
+| 9/3, 04:30 PM UTC / 09:30 AM PT    | [Agents 101](https://aka.ms/agenthack) | All | [Link](https://aka.ms/agenthack) |
+
+### Portuguese
+
+| Day/Time              | Topic                    | Track                    | Resources                |
+| --------------------- | ------------------------ | ------------------------ | ------------------------ |
+| 9/3, 04:30 PM UTC / 09:30 AM PT    | [Agents 101](https://aka.ms/agenthack) | All | [Link](https://aka.ms/agenthack) |
+
+### Chinese
+
+| Day/Time              | Topic                    | Track                    | Resources                |
+| --------------------- | ------------------------ | ------------------------ | ------------------------ |
+| 9/3, 04:30 PM UTC / 09:30 AM PT    | [Agents 101](https://aka.ms/agenthack) | All | [Link](https://aka.ms/agenthack) |
+
+## Office Hours
+
+For additional help with your hacks, you can drop by Office Hours in our AI Discord channel. Here are the Office Hours scheduled so far:
+
+
+| Day/Time              | Topic/Hosts                              |
+| --------------------- | ---------------------------------------- |
+| 9/4, 07:00 PM UTC / 12:00 PM PT | [Add office hours here](https://aka.ms/agenthack) |
+
+## RAG Code Samples
+
+
+| Repository            | Language/Framework     | Costs |
+| --------------------- | ---------------------- | ------ |
+| [Add code samples here](https://aka.ms/agenthack) | Add language/technology used here | Add costs here |
+
+To find more samples, check out the following resources:
+
+* [Add other links for code samples here](https://aka.ms/agenthack)
+
+## Recommended Learning Materials 📚
+
+* [AI learning and community hub](https://learn.microsoft.com/ai/)
+* [Agents for Beginners](https://aka.ms/ai-agents-beginners)
+* [Join the Azure AI Discord!](https://aka.ms/AzureAI/Discord)
+
+## Project Submission
+
+Hack submissions are due **April 30th**, 11:59 PM PST.
+
+Submit your project here when it's ready:
+**🚀 [Project Submission](https://aka.ms/agenthack)**
+
+Check out this video for step by step project submission guidance:
+**[Project Submission Video](https://github.com/microsoft/hack-together-teams/assets/3199282/572ea387-61ec-4b77-9885-23b5b2bd39bd)**
+
+## Prizes and Categories 🏅
+
+Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
+
+Each winning team in the categories below will receive a prize. 💸
+
+* Best Overall Agent - $20,000
+* Best Agent in Python - $5,000
+* Best Agent in C# - $5,000
+* Best Agent in Java - $5,000
+* Best Agent in JavaScript/TypeScript - $5,000
+* Best Copilot Agent - $5,000
+* Best Azure AI Agent Service Usage - $5,000
+
+Each team can only win in one category.
+All participants who submit a project will receive a digital badge.
+
+## Judges
+
+TBD
