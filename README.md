@@ -7,13 +7,13 @@
 
 2025 is the year of AI agents! But what exactly is an agent, and how can you build one? Whether you're a seasoned developer or just starting out, this **FREE three-week virtual hackathon** is your chance to dive deep into AI agent development.
 
-🔥 Learn from **20+ expert-led sessions** streamed live on YouTube, covering top frameworks like **Semantic Kernel, Autogen, the new Azure AI Agents SDK, the M365 Copilot SDK,** and **GitHub Copilot extensions SDK**.
+🔥 Learn from **20+ expert-led sessions** streamed live on YouTube, covering top frameworks like **Semantic Kernel**, **Autogen**, the new **Azure AI Agents SDK**, the **M365 Copilot SDK,** and **GitHub Copilot extensions SDK**.
 
-💡 Get hands-on experience, unleash your creativity, and build powerful AI agents—then submit your hack for a chance to win **CASH prizes!** 💸
+💡 Get hands-on experience, unleash your creativity, and build powerful AI agents—then submit your hack for a chance to win **amazing prizes!** 💸
 
 📅 Key Dates:
-* Expert sessions: **April 8 – April 24**
-* Hack submission deadline: **April 30, 11:59 PM PST**
+* Expert sessions: **April 8th 2025 – April 24th 2025**
+* Hack submission deadline: **April 30th 2025, 11:59 PM PST**
 
 Don't miss out—join us and start building the future of AI! 🔥
 
@@ -89,14 +89,16 @@ To find more samples, check out the following resources:
 
 ## Recommended Learning Materials 📚
 
-* [AI learning and community hub](https://learn.microsoft.com/ai/)
+* [AI Learning and Community Hub](https://learn.microsoft.com/ai/)
 * [AI Agents for Beginners](https://aka.ms/ai-agents-beginners)
+
+## Join the Microsoft AI Community and meet with Developers and Engineers 
 
 [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/AzureAI/Discord)
 
 ## Project Submission
 
-Hack submissions are due **April 30th**, 11:59 PM PST.
+Hack submissions are due **April 30th 2025**, 11:59 PM PST.
 
 Submit your project here when it's ready:
 **🚀 [Project Submission](https://aka.ms/agenthack)**
