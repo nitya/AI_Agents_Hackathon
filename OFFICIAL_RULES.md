@@ -14,7 +14,7 @@ In these Rules, “Microsoft,” “we,” “our,” and “us” refer to Spon
 
 **3.	ENTRY PERIOD**
 
-The Contest starts at 12:01 a.m. Pacific Time (PT) on April 8th, 2025, and ends at 11:59 p.m. PT on April 30, 2025 (“Entry Period”).
+The Contest starts at 12:01 a.m. Pacific Time (PT) on April 8, 2025, and ends at 11:59 p.m. PT on April 30, 2025 (“Entry Period”).
 
 To enter, you must be eighteen (18) years of age or older. If you are eighteen (18) years of age or older but have not reached the age of majority in your legal place of residence, then you must have consent of a parent/legal guardian.
 
@@ -22,7 +22,7 @@ The Contest is a closed promotion open only to individual entrants or Teams that
 
 - **Teams:** Each Team must be comprised of one (1) Team Leader and four (4) Team Members. The Team Leader counts as one of the Team Members. Only one (1) Entry per Team may be submitted in the Contest; we will accept no more than one (1) Entry per Team.
 - **Team Leaders:** Each Team leader (the “Team Leader”) must be, as of April 8, 2025, eighteen (18) years of age or older. Each (1) Team Leader may only lead one Team.
-- **Team Members:** Each student member of a Team (“Team Member”) must be, as of April 8th, 2025, eighteen (18) years of age or older. Each Team Member may only be a member of one (1) Team.
+- **Team Members:** Each student member of a Team (“Team Member”) must be, as of April 8, 2025, eighteen (18) years of age or older. Each Team Member may only be a member of one (1) Team.
 
 You are fully responsible for (i) the conduct of your Team Members; and (ii) the consequences of any misconduct by your Team Members. By registering a Team for the Contest, you represent and warrant that you have obtained the written consent of each Team Member (as defined below) or, for any Team Member who has not reached the age of majority in their legal place of residence, their parent or guardian, to participate in the Contest.
 
@@ -122,7 +122,7 @@ This Contest will be governed by the laws of the State of Washington, and you co
 
 **13. WINNERS LIST**
 
-Send an email to hacktogether@microsoft.com with the subject line “AI Agents Hackathon winners” within thirty (30) days of September 30th, 2024 to receive a list of winners that received a prize.
+Send an email to hacktogether@microsoft.com with the subject line “AI Agents Hackathon winners” within thirty (30) days of April 30, 2025 to receive a list of winners that received a prize.
 
 ## Terms and Conditions
 
