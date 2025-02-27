@@ -1,14 +1,17 @@
-# AI Agents Hackathon: Let's build Agents together
+# AI Agents Hackathon 2025: Build the Future of AI!
 
 <img width="1599" alt="AI Agents Hackathon Banner" src="media\Placeholder Banner.png">
 
 
 🛠️ Build, innovate, and #Hacktogether! 🛠️
-It's time to start building Agents. 🤖 + 📚 = 🔥
+2025 is the year of AI agents! But what exactly is an agent, and how can you build one? Whether you're a seasoned developer or just starting out, this **FREE three-week virtual hackathon** is your chance to dive deep into AI agent development.
+🔥 Learn from **20+ expert-led sessions** streamed live on YouTube, covering top frameworks like **Semantic Kernel, Autogen, the new Azure AI Agents SDK, the M365 Copilot SDK,** and **GitHub Copilot extensions SDK**.
+💡 Get hands-on experience, unleash your creativity, and build powerful AI agents—then submit your hack for a chance to win **CASH prizes!** 💸
 
-Add hack description here.
-
-The streams start **April 8th** and end **April 25th**. Hack submissions are due **April 30th**, 11:59 PM PST. Join us!
+📅 Key Dates:
+📌 Expert sessions: **April 8 – April 24**
+📌 Hack submission deadline: **April 30, 11:59 PM PST**
+Don't miss out—join us and start building the future of AI! 🔥
 
 ## Register
 
