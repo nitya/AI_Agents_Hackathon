@@ -92,7 +92,7 @@ To find more samples, check out the following resources:
 * [AI Learning and Community Hub](https://learn.microsoft.com/ai/)
 * [AI Agents for Beginners](https://aka.ms/ai-agents-beginners)
 
-## Join the Microsoft AI Community and meet with Developers and Engineers 
+### Join the Microsoft AI Community and meet with Developers and Engineers 
 
 [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/AzureAI/Discord)
 
