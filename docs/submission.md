@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Hack submission
+# Hack Submission
 
 Hack submissions are due **April 30th 2025**, 11:59 PM PST.
 

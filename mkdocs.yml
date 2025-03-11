@@ -97,6 +97,7 @@ plugins: []
 # Navigation  ...............................................
 nav:
   - Overview: index.md
+  - Registration: registration.md
   - Rules: rules.md
   - Submission: submission.md
   - Discussions: https://github.com/microsoft/AI_Agents_Hackathon/discussions
