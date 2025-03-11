@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-#  
+# 
 
 <img alt="AI Agents Hackathon 2025" src="media/banner.png">
 
@@ -20,7 +20,7 @@ hide:
 * Expert sessions: **April 8th 2025 – April 24th 2025**
 * Hack submission deadline: **April 30th 2025, 11:59 PM PST**
 
-Don't miss out—join us and start building the future of AI! 🔥
+Don't miss out — join us and start building the future of AI! 🔥
 
 ## Stream Schedule
 
@@ -104,15 +104,19 @@ Don't miss out—join us and start building the future of AI! 🔥
 
 ## Office Hours
 
-For additional help with your hacks, you can drop by Office Hours in our AI Discord channel. Here are the Office Hours scheduled so far:
+For additional help with your hacks, you can drop by Office Hours in our AI Discord channel. 
+
+[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/AzureAI/Discord)
+
+Here are the Office Hours scheduled so far:
 
 | Day/Time              | Topic/Hosts                              |
 | --------------------- | ---------------------------------------- |
 | Every Thursday, 12:30 PM PT | [Python + AI (English)](http://aka.ms/aipython/oh)
-| Every Monday, 03:00 PM PT | [Python + AI (Spanish)](http://aka.ms/iapython/oh) TODO
+| Every Monday, 03:00 PM PT | [Python + AI (Spanish)](https://aka.ms/pythonia/oh)
 
-## Code Samples
 
+<!-- ## Code Samples
 
 | Repository            | Language/Framework     | Costs |
 | --------------------- | ---------------------- | ------ |
@@ -120,20 +124,16 @@ For additional help with your hacks, you can drop by Office Hours in our AI Disc
 
 To find more samples, check out the following resources:
 
-* [Add other links for code samples here](https://aka.ms/agenthack)
+* [Add other links for code samples here](https://aka.ms/agenthack) -->
 
 ## Recommended Learning Materials 📚
 
-* [Learn more here!](https://aka.ms/AIAgent_Skilling)
-
-### Microsoft AI Community Discord
-
-[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/AzureAI/Discord)
+[Access resources here!](https://aka.ms/AIAgent_Skilling)
 
 ## Project Submission
 
-Follow the [submission process](submission.md).
-📝
+Follow the [submission process](submission.md). 📝
+
 ## Prizes and Categories 🏅
 
 Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
@@ -151,6 +151,6 @@ Each winning team in the categories below will receive a prize. 💸
 Each team can only win in one category.
 All participants who submit a project will receive a digital badge.
 
-## Judges
+## Judging
 
-TBD
+More details coming soon!
