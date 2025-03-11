@@ -64,6 +64,8 @@ Don't miss out — join us and start building the future of AI! 🔥
 
 ## Office Hours
 
+[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/AzureAI/Discord)
+
 For additional help with your hacks, you can drop by Office Hours in our AI Discord channel. Here are the Office Hours scheduled so far:
 
 More details coming soon!
@@ -71,7 +73,7 @@ More details coming soon!
 | --------------------- | ---------------------------------------- |
 | 9/4, 07:00 PM UTC / 12:00 PM PT | [Add office hours here](https://aka.ms/agenthack) | -->
 
-## Code Samples
+<!-- ## Code Samples
 
 | Repository            | Language/Framework     | Costs |
 | --------------------- | ---------------------- | ------ |
@@ -79,18 +81,16 @@ More details coming soon!
 
 To find more samples, check out the following resources:
 
-* [Add other links for code samples here](https://aka.ms/agenthack)
+* [Add other links for code samples here](https://aka.ms/agenthack) -->
 
 ## Recommended Learning Materials 📚
-
-Join the Azure AI Discord server! [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/AzureAI/Discord)
 
 * [Access more resources here!](https://aka.ms/AIAgent_Skilling)
 
 ## Project Submission
 
-Follow the [submission process](submission.md).
-📝
+Follow the [submission process](submission.md). 📝
+
 ## Prizes and Categories 🏅
 
 Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
