@@ -11,7 +11,7 @@ hide:
 
 2025 is the year of AI agents! But what exactly is an agent, and how can you build one? Whether you're a seasoned developer or just starting out, this **FREE three-week virtual hackathon** is your chance to dive deep into AI agent development.
 
-🔥 Learn from **20+ expert-led sessions** streamed live on YouTube, covering top frameworks like **Semantic Kernel**, **Autogen**, the new **Azure AI Agents SDK** and the **M365 Copilot SDK,**.
+🔥 Learn from **20+ expert-led sessions** streamed live on YouTube, covering top frameworks like **Semantic Kernel**, **Autogen**, the new **Azure AI Agents SDK** and the **M365 Copilot SDK**.
 
 💡 Get hands-on experience, unleash your creativity, and build powerful AI agents—then submit your hack for a chance to win **amazing prizes!** 💸
 
@@ -22,7 +22,13 @@ hide:
 
 Don't miss out — join us and start building the future of AI! 🔥
 
-## Stream Schedule
+## Registration 🎟️
+
+[Register now!](https://developer.microsoft.com/reactor/events/25323/) That form will register you for the hackathon. Afterwards, browse through the live stream schedule below and register for the sessions you're interested in.
+
+Once you're registered, [introduce yourself](https://github.com/microsoft/AI_Agents_Hackathon/discussions/5) and [look for teammates](https://github.com/microsoft/AI_Agents_Hackathon/discussions/4)!
+
+## Stream schedule 📅
 
 ### English
 
@@ -102,7 +108,7 @@ Don't miss out — join us and start building the future of AI! 🔥
 | 4/8, TIME TBD | 欢迎参加 AI Agents Hackathon | All | - |
 | 4/15, TIME TBD | 使用 Azure AI Agent Service 作为您的软件开发流程 | All | - |
 
-## Office Hours
+## Office hours 🕒
 
 For additional help with your hacks, you can drop by Office Hours in our AI Discord channel. 
 
@@ -126,15 +132,19 @@ To find more samples, check out the following resources:
 
 * [Add other links for code samples here](https://aka.ms/agenthack) -->
 
-## Recommended Learning Materials 📚
+## Learning resources 📚
 
 [Access resources here!](https://aka.ms/AIAgent_Skilling)
 
-## Project Submission
+You can also post questions and share your progress in our [discussions forum](https://github.com/microsoft/AI_Agents_Hackathon/discussions).
 
-Follow the [submission process](submission.md). 📝
+## Project submission  🚀
 
-## Prizes and Categories 🏅
+Read through the [official rules](rules.md) and make sure you understand the requirements.
+
+Once your hack is ready, follow the [submission process](submission.md). 📝
+
+## Prizes and categories 🏅
 
 Projects will be evaluated by a panel of judges, including Microsoft engineers, product managers, and developer advocates. Judging criteria will include innovation, impact, technical usability, and alignment with corresponding hackathon category.
 
@@ -151,6 +161,6 @@ Each winning team in the categories below will receive a prize. 💸
 Each team can only win in one category.
 All participants who submit a project will receive a digital badge.
 
-## Judging
+<!--## Judging
 
-More details coming soon!
+More details coming soon!-->
