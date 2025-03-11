@@ -84,10 +84,7 @@ To find more samples, check out the following resources:
 
 ## Recommended Learning Materials 📚
 
-* [Agents Learn Collection](https://learn.microsoft.com/en-us/collections/ee4ofotexqd15y?sharingId=46BDA428EE16BE7B)
-<!-- * [Find the best model for your generative AI solution with Azure AI Foundry](https://learn.microsoft.com/en-us/plans/7w07c8tk4m8y4p)
-* [Build, test, deploy applications securely with GitHub and Microsoft Azure](https://learn.microsoft.com/en-us/plans/w1y7uo86pmpzey)
-* [Develop, replatform, and improve AI apps with advanced Azure AI services](https://learn.microsoft.com/en-us/plans/60x3h6601gok72) -->
+* [Learn more here!](https://aka.ms/AIAgent_Skilling)
 
 ### Microsoft AI Community Discord
 
