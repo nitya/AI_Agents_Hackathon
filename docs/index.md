@@ -23,9 +23,7 @@ Don't miss out—join us and start building the future of AI! 🔥
 
 ## Register
 
-Register for the hackathon using the following link: [Sign Up here](https://aka.ms/agenthack).
-
-Introduce yourself and look for teammates here [GitHub Discussions](https://aka.ms/agenthack)!
+Register for the hackathon here: [Sign Up here](registration.md).
 
 ## Official Rules
 
