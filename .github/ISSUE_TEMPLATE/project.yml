@@ -68,10 +68,10 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: email
+    id: register
     attributes:
-      label: Email Contact
-      description: Confirm that you have filled out the following form, we will not be able to contact you about prizes if you don't!
+      label: Registration Check
+      description: Confirm that you have filled out the [registration form](https://developer.microsoft.com/en-us/reactor/events/25323/), we will not be able to contact you about prizes if you don't! 
       options:
-        - label: Fill out this form with email addresses for each team member. (add link here!)
+        - label: I have completed the registration form.
           required: true
