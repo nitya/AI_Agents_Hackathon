@@ -16,18 +16,11 @@ hide:
 💡 Get hands-on experience, unleash your creativity, and build powerful AI agents—then submit your hack for a chance to win **amazing prizes!** 💸
 
 📅 Key Dates:
+
 * Expert sessions: **April 8th 2025 – April 24th 2025**
 * Hack submission deadline: **April 30th 2025, 11:59 PM PST**
 
 Don't miss out—join us and start building the future of AI! 🔥
-
-## Register
-
-Register for the hackathon here: [Sign Up here](registration.md).
-
-## Official Rules
-
-Read the [official rules](rules.md) 📃
 
 ## Stream Schedule
 
@@ -91,10 +84,12 @@ To find more samples, check out the following resources:
 
 ## Recommended Learning Materials 📚
 
-* [AI Learning and Community Hub](https://learn.microsoft.com/ai/)
-* [AI Agents for Beginners](https://aka.ms/ai-agents-beginners)
+* [Agents Learn Collection](https://learn.microsoft.com/en-us/collections/ee4ofotexqd15y?sharingId=46BDA428EE16BE7B)
+<!-- * [Find the best model for your generative AI solution with Azure AI Foundry](https://learn.microsoft.com/en-us/plans/7w07c8tk4m8y4p)
+* [Build, test, deploy applications securely with GitHub and Microsoft Azure](https://learn.microsoft.com/en-us/plans/w1y7uo86pmpzey)
+* [Develop, replatform, and improve AI apps with advanced Azure AI services](https://learn.microsoft.com/en-us/plans/60x3h6601gok72) -->
 
-### Join the Microsoft AI Community and meet with Developers and Engineers 
+### Microsoft AI Community Discord
 
 [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/AzureAI/Discord)
 

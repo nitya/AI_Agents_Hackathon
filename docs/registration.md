@@ -7,4 +7,4 @@ hide:
 
 Register for the hackathon using the following link: [Sign Up here](https://developer.microsoft.com/en-us/reactor/events/25323/).
 
-Introduce yourself and look for teammates here [GitHub Discussions](https://aka.ms/agenthack)!
+[Introduce yourself](https://github.com/microsoft/AI_Agents_Hackathon/discussions/5) and [look for teammates](https://github.com/microsoft/AI_Agents_Hackathon/discussions/4)!
