@@ -11,7 +11,6 @@ Submit your project using the issue tracker from the hackathon repository:
 
 **[https://github.com/microsoft/AI_Agents_Hackathon/issues](https://github.com/microsoft/AI_Agents_Hackathon/issues)**
 
-
 Fill out every field in the issue template to ensure your submission is complete.
 
 Check out this video for step by step project submission guidance:

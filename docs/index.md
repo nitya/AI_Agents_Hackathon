@@ -85,7 +85,7 @@ To find more samples, check out the following resources:
 
 ## Recommended Learning Materials 📚
 
-* [Access resources here!](https://aka.ms/AIAgent_Skilling)
+[Access resources here!](https://aka.ms/AIAgent_Skilling)
 
 ## Project Submission
 
