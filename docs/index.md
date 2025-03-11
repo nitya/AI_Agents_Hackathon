@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-#  
+# 
 
 <img alt="AI Agents Hackathon 2025" src="media/banner.png">
 
@@ -20,7 +20,7 @@ hide:
 * Expert sessions: **April 8th 2025 – April 24th 2025**
 * Hack submission deadline: **April 30th 2025, 11:59 PM PST**
 
-Don't miss out—join us and start building the future of AI! 🔥
+Don't miss out — join us and start building the future of AI! 🔥
 
 ## Stream Schedule
 
@@ -73,7 +73,6 @@ For additional help with your hacks, you can drop by Office Hours in our AI Disc
 
 ## Code Samples
 
-
 | Repository            | Language/Framework     | Costs |
 | --------------------- | ---------------------- | ------ |
 | [Add code samples here](https://aka.ms/agenthack) | Add language/framework used here | Add costs here |
@@ -84,11 +83,9 @@ To find more samples, check out the following resources:
 
 ## Recommended Learning Materials 📚
 
-* [Learn more here!](https://aka.ms/AIAgent_Skilling)
+Join the Azure AI Discord server! [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/AzureAI/Discord)
 
-### Microsoft AI Community Discord
-
-[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/AzureAI/Discord)
+* [Access more resources here!](https://aka.ms/AIAgent_Skilling)
 
 ## Project Submission
 
@@ -111,6 +108,6 @@ Each winning team in the categories below will receive a prize. 💸
 Each team can only win in one category.
 All participants who submit a project will receive a digital badge.
 
-## Judges
+## Judging
 
-TBD
+More details will be added at a later point.
