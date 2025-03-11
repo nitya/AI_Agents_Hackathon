@@ -66,10 +66,10 @@ Don't miss out — join us and start building the future of AI! 🔥
 
 For additional help with your hacks, you can drop by Office Hours in our AI Discord channel. Here are the Office Hours scheduled so far:
 
-
-| Day/Time              | Topic/Hosts                              |
+More details coming soon!
+<!-- | Day/Time              | Topic/Hosts                              |
 | --------------------- | ---------------------------------------- |
-| 9/4, 07:00 PM UTC / 12:00 PM PT | [Add office hours here](https://aka.ms/agenthack) |
+| 9/4, 07:00 PM UTC / 12:00 PM PT | [Add office hours here](https://aka.ms/agenthack) | -->
 
 ## Code Samples
 
@@ -110,4 +110,4 @@ All participants who submit a project will receive a digital badge.
 
 ## Judging
 
-More details will be added at a later point.
+More details coming soon!
