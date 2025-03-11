@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Official Rules 
 
 These are the official rules for Hack Together: AI Agents Hackathon.
