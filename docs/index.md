@@ -155,7 +155,7 @@ Each winning team in the categories below will receive a prize. 💸
 * Best Agent in C# - $5,000
 * Best Agent in Java - $5,000
 * Best Agent in JavaScript/TypeScript - $5,000
-* Best Copilot Agent - $5,000
+* Best Copilot Agent (using Microsoft Copilot Studio or M365 Copilot SDK) - $5,000
 * Best Azure AI Agent Service Usage - $5,000
 
 Each team can only win in one category.
