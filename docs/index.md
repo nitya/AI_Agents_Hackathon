@@ -84,7 +84,7 @@ Once you're registered, [introduce yourself](https://github.com/microsoft/AI_Age
 | 4/29, 01:00 PM UTC / 06:00 AM PT    | [Irresponsible AI Agents](https://developer.microsoft.com/reactor/events/25388) | Java | - |
 | 4/29, 04:00 PM UTC / 09:00 AM PT    | [Securing AI agents on Azure](https://developer.microsoft.com/reactor/events/25364) | Python | - |
 
-### Spanish
+### Spanish/Español
 
 | Day/Time              | Topic                    | Track                    | Resources                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
@@ -94,14 +94,14 @@ Once you're registered, [introduce yourself](https://github.com/microsoft/AI_Age
 | 4/17 09:00 AM PT    | [Construyendo agentes utilizando un ejercito de modelos con el catalogo de Azure AI Foundry](https://developer.microsoft.com/reactor/events/25316) | Python | - |
 | 4/23 12:00 PM PT    | [Comunicación dinámica en agentes grupales](https://developer.microsoft.com/reactor/events/25339) | Python | - |
 
-### Portuguese
+### Portuguese/Português
 
 | Day/Time              | Topic                    | Track                    | Resources                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
 | 4/8 12:00 PM PT | [Bem-vindo ao AI Agents Hackathon](https://developer.microsoft.com/reactor/events/25368) | All | - |
 | 4/10 12:00 PM PT | [Crie um aplicativo com o Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25367) | Python | - |
 
-### Chinese
+### Chinese/简体字
 
 | Day/Time              | Topic                    | Track                    | Resources                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
