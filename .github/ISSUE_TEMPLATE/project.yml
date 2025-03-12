@@ -19,8 +19,8 @@ body:
   - type: checkboxes
     id: tags
     attributes:
-      label: Framework & Languages
-      description: Check any technologies or languages used for your agentic application.
+      label: Language & Framework
+      description: Check any languages or frameworks used for your agentic application.
       options:
         - label: Python
           required: false
@@ -31,11 +31,9 @@ body:
         - label: JavaScript/TypeScript
           required: false 
           required: false
-        - label: Copilot Studio
+        - label: Microsoft Copilot Studio
           required: false 
-        - label: Agents SDK
-          required: false 
-        - label: GitHub Copilot Participants
+        - label: M365 Agents SDK
           required: false 
         - label: Azure AI Agent Service
           required: false 
