@@ -11,13 +11,13 @@ hide:
 
 2025 is the year of AI agents! But what exactly is an agent, and how can you build one? Whether you're a seasoned developer or just starting out, this **FREE three-week virtual hackathon** is your chance to dive deep into AI agent development.
 
-🔥 Learn from **20+ expert-led sessions** streamed live on YouTube, covering top frameworks like **Semantic Kernel**, **Autogen**, the new **Azure AI Agents SDK** and the **M365 Copilot SDK**.
+🔥 Learn from **20+ expert-led sessions** streamed live on YouTube, covering top frameworks like **Semantic Kernel**, **Autogen**, the new **Azure AI Agents SDK** and the **Microsoft 365 Agents SDK**.
 
 💡 Get hands-on experience, unleash your creativity, and build powerful AI agents—then submit your hack for a chance to win **amazing prizes!** 💸
 
 📅 Key Dates:
 
-* Expert sessions: **April 8th 2025 – April 24th 2025**
+* Expert sessions: **April 8th 2025 – April 30th 2025**
 * Hack submission deadline: **April 30th 2025, 11:59 PM PST**
 
 Don't miss out — join us and start building the future of AI! 🔥
@@ -110,9 +110,9 @@ Once you're registered, [introduce yourself](https://github.com/microsoft/AI_Age
 
 ## Office Hours 🕒
 
-For additional help with your hacks, you can drop by Office Hours in our AI Discord channel. 
+For additional help with your hacks, you can drop by Office Hours in our AI Discord channel.
 
-[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://aka.ms/AzureAI/Discord)
+[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/X7C7UxCFSY)
 
 Here are the Office Hours scheduled so far:
 
@@ -136,7 +136,9 @@ To find more samples, check out the following resources:
 
 [Access resources here!](https://aka.ms/AIAgent_Skilling)
 
-You can also post questions and share your progress in our [discussions forum](https://github.com/microsoft/AI_Agents_Hackathon/discussions).
+Join [TheSource EHub](https://aka.ms/thesource/ai_agents) to explore top picks including trainings, livestreams, repositories, technical guides, blogs, downloads, certifications, and more, all updated monthly. The AI Agent section offers essential resources for creating AI Agents, while other sections provide insights into AI, development tools, and programming languages.
+
+You can also post questions in our [discussions forum](https://github.com/microsoft/AI_Agents_Hackathon/discussions), or chat with attendees in the [Discord channel](https://discord.gg/X7C7UxCFSY).
 
 ## Project Submission  🚀
 
@@ -155,7 +157,7 @@ Each winning team in the categories below will receive a prize. 💸
 * Best Agent in C# - $5,000
 * Best Agent in Java - $5,000
 * Best Agent in JavaScript/TypeScript - $5,000
-* Best Copilot Agent (using Microsoft Copilot Studio or M365 Copilot SDK) - $5,000
+* Best Copilot Agent (using Microsoft Copilot Studio or Microsoft 365 Agents SDK) - $5,000
 * Best Azure AI Agent Service Usage - $5,000
 
 Each team can only win in one category.
