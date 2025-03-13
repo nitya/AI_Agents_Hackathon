@@ -33,7 +33,7 @@ body:
           required: false
         - label: Microsoft Copilot Studio
           required: false 
-        - label: M365 Agents SDK
+        - label: Microsoft 365 Agents SDK
           required: false 
         - label: Azure AI Agent Service
           required: false 
