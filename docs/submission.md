@@ -7,9 +7,11 @@ hide:
 
 Hack submissions are due **April 30th 2025**, 11:59 PM PST.
 
+Before submitting, read through the [official rules](rules.md) and make sure you understand the requirements.
+
 Submit your project using the issue tracker from the hackathon repository:
 
-**[Submit Project](https://github.com/microsoft/AI_Agents_Hackathon/issues/new/choose)**
+**[Submit Project](https://github.com/microsoft/AI_Agents_Hackathon/issues/new?template=project.yml)**
 
 Fill out every field in the issue template to ensure your submission is complete.
 
