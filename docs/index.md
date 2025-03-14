@@ -70,6 +70,7 @@ The series starts with a kick-off for all developers, and then dives into specif
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
 | 4/22 06:00 AM PT    | [Building a AI Agent with Prompty and Azure AI Foundry](https://developer.microsoft.com/reactor/events/25385) | Python | - |
 | 4/22 09:00 AM PT    | [Real-time Multi-Agent LLM solutions with SignalR, gRPC, and HTTP based on Semantic Kernel](https://developer.microsoft.com/reactor/events/25331) | Python | - |
+| 4/22 10:30 AM PT    | [Learn Live: Fundamentals of AI agents on Azure](https://developer.microsoft.com/reactor/events/25437/) | - | - |
 | 4/22 12:00 PM PT | [Demystifying Agents: Building an AI Agent from Scratch on Your Own Data using Azure SQL](https://developer.microsoft.com/reactor/events/25334) | C# | - |
 | 4/22 03:00 PM PT    | [VoiceRAG: talk to your data](https://developer.microsoft.com/reactor/events/25318) | Python | - |
 | 4/23 09:00 AM PT    | [Building Multi-Agent Apps on top of Azure PostgreSQL](https://developer.microsoft.com/reactor/events/25330) | Python | - |
@@ -90,9 +91,9 @@ The series starts with a kick-off for all developers, and then dives into specif
 
 [Register for all the Spanish sessions](https://developer.microsoft.com/reactor/series/S-1512/)
 
-| Day/Time              | Topic                    | Track                    | Resources                |
+| Day/Time              | Topic                    | Programming language     | Resources                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
-| 4/8 12:00 PM PT | [Buenvenidos a AI Agents Hackathon](https://developer.microsoft.com/reactor/events/25341) | All | - |
+| 4/8 12:00 PM PT | [Buenvenidos a AI Agents Hackathon](https://developer.microsoft.com/reactor/events/25341) | - | - |
 | 4/16 09:00 AM PT    | [Crea tu aplicación de código con Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25360) | Python | - |
 | 4/16 12:00 PM PT | [Agentes de IA + .NET Aspire](https://developer.microsoft.com/reactor/events/25333) | C# | - |
 | 4/17 09:00 AM PT    | [Construyendo agentes utilizando un ejercito de modelos con el catalogo de Azure AI Foundry](https://developer.microsoft.com/reactor/events/25316) | Python | - |
@@ -105,17 +106,17 @@ The series starts with a kick-off for all developers, and then dives into specif
 
 [Register for all the Portuguese sessions](https://developer.microsoft.com/reactor/series/S-1513)
 
-| Day/Time              | Topic                    | Track                    | Resources                |
+| Day/Time              | Topic                    | Programming language                    | Resources                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
-| 4/8 12:00 PM PT | [Bem-vindo ao AI Agents Hackathon](https://developer.microsoft.com/reactor/events/25368) | All | - |
+| 4/8 12:00 PM PT | [Bem-vindo ao AI Agents Hackathon](https://developer.microsoft.com/reactor/events/25368) | - | - |
 | 4/10 12:00 PM PT | [Crie um aplicativo com o Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25367) | Python | - |
 
 ### Chinese/简体字
 
-| Day/Time              | Topic                    | Track                    | Resources                |
+| Day/Time              | Topic                    | Programming language     | Resources                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
-| 4/8, TIME TBD | 欢迎参加 AI Agents Hackathon | All | - |
-| 4/15, TIME TBD | 使用 Azure AI Agent Service 作为您的软件开发流程 | All | - |
+| 4/8, 19:30 CST | 欢迎参加 AI Agents Hackathon | - | - |
+| 4/15, TIME TBD | 使用 Azure AI Agent Service 作为您的软件开发流程 | C# | - |
 
 ## Office Hours 🕒
 
