@@ -32,6 +32,8 @@ Once you're registered, [introduce yourself](https://github.com/microsoft/AI_Age
 
 ### English
 
+The series starts with a kick-off for all developers, and then dives into specific tracks for [Python](https://developer.microsoft.com/reactor/series/S-1503), [Java](https://developer.microsoft.com/reactor/series/S-1504), [C#](https://developer.microsoft.com/reactor/series/S-1506), and JavaScript developers. The [Copilots track](https://developer.microsoft.com/reactor/series/S-1505) will focus on building intelligent copilots with Microsoft 365 and Copilot Studio.
+
 #### Week 1: April 8th-11th
 
 | Day/Time              | Topic                    | Track                    | Resources                |
@@ -86,15 +88,22 @@ Once you're registered, [introduce yourself](https://github.com/microsoft/AI_Age
 
 ### Spanish/Español
 
+[Register for all the Spanish sessions](https://developer.microsoft.com/reactor/series/S-1512/)
+
 | Day/Time              | Topic                    | Track                    | Resources                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
 | 4/8 12:00 PM PT | [Buenvenidos a AI Agents Hackathon](https://developer.microsoft.com/reactor/events/25341) | All | - |
 | 4/16 09:00 AM PT    | [Crea tu aplicación de código con Azure AI Agent Service](https://developer.microsoft.com/reactor/events/25360) | Python | - |
 | 4/16 12:00 PM PT | [Agentes de IA + .NET Aspire](https://developer.microsoft.com/reactor/events/25333) | C# | - |
 | 4/17 09:00 AM PT    | [Construyendo agentes utilizando un ejercito de modelos con el catalogo de Azure AI Foundry](https://developer.microsoft.com/reactor/events/25316) | Python | - |
+| 4/17 12:00 PM PT | [Crea aplicaciones de agentes de IA con Semantic Kernel](https://developer.microsoft.com/en-us/reactor/events/25340/) | Python | - |
+| 4/22 12:00 PM PT | Prototipando Agentes de IA con GitHub Models | Python | - |
 | 4/23 12:00 PM PT    | [Comunicación dinámica en agentes grupales](https://developer.microsoft.com/reactor/events/25339) | Python | - |
+| 4/23 03:00 PM PT | VoiceRAG: habla con tus datos | Python | - |
 
 ### Portuguese/Português
+
+[Register for all the Portuguese sessions](https://developer.microsoft.com/reactor/series/S-1513)
 
 | Day/Time              | Topic                    | Track                    | Resources                |
 | --------------------- | ------------------------ | ------------------------ | ------------------------ |
