@@ -5,7 +5,7 @@ hide:
 
 # 
 
-<img alt="Hackathon de Agentes de IA 2025" src="../media/banner.png">
+<img alt="Hackathon de Agentes de IA 2025" src="../media/banner_es.png">
 
 🛠️ ¡Crea, innova y #HackeaJuntos! 🛠️
 

@@ -5,7 +5,7 @@ hide:
 
 # 
 
-<img alt="AI Agents Hackathon 2025" src="../media/banner.png">
+<img alt="AI Agents Hackathon 2025" src="../media/banner_zh.png">
 
 🛠️ 构建、创新，#Hacktogether！ 🛠️
 
